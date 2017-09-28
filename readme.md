@@ -13,6 +13,7 @@ Make sure [git-lfs](https://git-lfs.github.com/) is installed.
 
 
 ```bash
-git clone {{ INSERT LINK HERE }} acuant
+git clone https://github.com/medicast/com.acuant.plugin.AcuantMobileSDK
+cd com.acuant.plugin.AcuantMobileSDK
 git lfs pull
 ```
